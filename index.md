@@ -5,4 +5,4 @@ I am a dedicated cybersecurity professional with a strong commitment to safeguar
 
 **DAVID O.A**
 
-![Alt text](assets/images/cloud-security-engineer.jpg)
+![Alt text](assets/images/cloud-security-engineer.png)
