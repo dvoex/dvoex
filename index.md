@@ -5,4 +5,7 @@ I am a dedicated cybersecurity professional with a strong commitment to safeguar
 
 **DAVID O.A**
 
+
+[View Active Directory Project (PDF)](pdfs/Ubuntu.pdf)
+
 ![Alt text](assets/images/cloud-security-engineer.png)
