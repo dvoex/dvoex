@@ -6,6 +6,6 @@ I am a dedicated cybersecurity professional with a strong commitment to safeguar
 **DAVID O.A**
 
 
-[View Active Directory Project (PDF)](pdfs/Ubuntu.pdf)
+[View Active Directory Project (PDF)](pdfs/Ubuntu Server CLI cheat sheet 2024 v6.pdf)
 
 ![Alt text](assets/images/cloud-security-engineer.png)
