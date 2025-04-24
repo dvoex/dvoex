@@ -1,7 +1,7 @@
 **WELCOME TO MY CYBERSECURITY PORTFOLIO**
 
 
-I am a dedicated Cybersecurity Professional with a strong commitment to safeguarding digital infrastructures and mitigating emerging threats. This portfolio highlights my journey toward becoming a Security Engineer, featuring hands-on projects in areas such as Active Directory Security, and Incidet Response. Through continous learning and practical experience, I aim to contribute to building resilient and secure systems that protect against evolving cyber threats.
+I am a passionate and driven Cybersecurity Professional with a strong focus on Security Engineering. This portfolio showcases my journey toward becoming a Security Engineer, featuring hands-on projects in areas such as Active Directory Security and Incident Response. Through continuous learning, practical experience, and a proactive approach to emerging threats, I strive to design and implement resilient systems that stand strong against today’s evolving cyber landscape. My goal is to build secure infrastructures that not only detect and respond to threats but also prevent them before they occur.
 
 **DAVID O. AWE**
 
